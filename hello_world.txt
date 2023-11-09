@@ -1,0 +1,2 @@
+Hello World. My first github repo. This file was created and written in 
+the command prompt
